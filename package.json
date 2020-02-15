@@ -1,0 +1,20 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node src/app.jsn"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.7.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

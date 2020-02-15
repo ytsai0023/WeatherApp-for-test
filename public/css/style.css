@@ -1,0 +1,19 @@
+h1{
+    color:gray
+}
+
+img{
+    width:800px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+body{
+    min-height: 100vh;
+}
+
+footer{
+    margin-bottom: 10px;
+}
